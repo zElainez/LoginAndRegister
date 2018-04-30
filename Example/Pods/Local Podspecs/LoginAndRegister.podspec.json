@@ -1,0 +1,22 @@
+{
+  "name": "LoginAndRegister",
+  "version": "0.1.0",
+  "summary": "A short description of LoginAndRegister.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zElainez/LoginAndRegister",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zElainez": "elaine_zhao@acmedcare.com"
+  },
+  "source": {
+    "git": "https://github.com/zElainez/LoginAndRegister.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LoginAndRegister/Classes/**/*"
+}

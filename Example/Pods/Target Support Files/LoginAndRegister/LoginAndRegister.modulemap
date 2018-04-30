@@ -1,0 +1,6 @@
+framework module LoginAndRegister {
+  umbrella header "LoginAndRegister-umbrella.h"
+
+  export *
+  module * { export * }
+}

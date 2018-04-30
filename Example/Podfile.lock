@@ -1,0 +1,16 @@
+PODS:
+  - LoginAndRegister (0.1.0)
+
+DEPENDENCIES:
+  - LoginAndRegister (from `../`)
+
+EXTERNAL SOURCES:
+  LoginAndRegister:
+    :path: ../
+
+SPEC CHECKSUMS:
+  LoginAndRegister: dfd5021b458c260fc09bbc681429db3179f31711
+
+PODFILE CHECKSUM: 2a9903446617d53796e6551afea82e1bd7c2391d
+
+COCOAPODS: 1.4.0.beta.2
